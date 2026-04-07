@@ -1,7 +1,12 @@
 aid: graham-holdings
-url: https://raw.githubusercontent.com/api-evangelist/graham-holdings/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/graham-holdings/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.graham-holdings.com
+description: >-
+  Graham Holdings is a diversified holding company with operations in education, media,
+  manufacturing, healthcare, and other businesses, including Kaplan, Graham Media
+  Group, and Hoover Treated Wood Products.
