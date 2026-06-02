@@ -1,27 +1,37 @@
 aid: graham-holdings
 name: Graham Holdings
 description: >-
-  Graham Holdings is a diversified holding company with operations in
-  education, broadcasting, manufacturing, healthcare, automotive, and
-  hospitality. Subsidiaries include Kaplan, Graham Media Group, Hoover
-  Treated Wood Products, Joyce/Dayton, Group Dekko, Forney, Graham
-  Healthcare Group, The Slate Group, Code3, and Clyde's Restaurant Group.
+  Graham Holdings (NYSE: GHC) is a diversified holding company with
+  operations in education, television broadcasting, digital media,
+  manufacturing, healthcare, automotive, restaurants, and custom framing.
+  Principal subsidiaries include Kaplan (educational services), Graham
+  Media Group and Social News Desk (broadcasting and social media tools),
+  The Slate Group and Foreign Policy (digital publishing), Code3 and City
+  Cast (digital marketing and local news), Hoover Treated Wood Products,
+  Joyce/Dayton, Group Dekko, and Forney (manufacturing), Graham Healthcare
+  Group (home health and hospice), Graham Automotive (dealerships), Clyde's
+  Restaurant Group (including Old Ebbitt Grill), and Framebridge (online
+  custom framing). No public developer APIs have been identified across the
+  portfolio.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Automotive
   - Broadcasting
   - Conglomerate
+  - Custom Framing
+  - Digital Media
   - Education
   - Healthcare
   - Holding Company
   - Manufacturing
   - Media
+  - Publishing
   - Restaurants
 url: >-
   https://raw.githubusercontent.com/api-evangelist/graham-holdings/refs/heads/main/apis.yml
 created: '2026-03-24'
-modified: '2026-04-28'
+modified: '2026-06-02'
 specificationVersion: '0.19'
 apis: []
 common:
@@ -34,17 +44,50 @@ common:
   - type: Investor Relations
     url: https://www.ghco.com/investor-relations
   - type: Subsidiary
+    title: Kaplan
     url: https://www.kaplan.com/
   - type: Subsidiary
+    title: Graham Media Group
     url: https://www.grahammediagroup.com/
   - type: Subsidiary
-    url: https://www.frtw.com/
+    title: Social News Desk
+    url: https://www.socialnewsdesk.com/
   - type: Subsidiary
+    title: The Slate Group
     url: https://www.slate.com/
   - type: Subsidiary
+    title: Foreign Policy
     url: https://foreignpolicy.com/
   - type: Subsidiary
+    title: City Cast
+    url: https://citycast.fm/
+  - type: Subsidiary
+    title: Code3
+    url: https://code3.com/
+  - type: Subsidiary
+    title: Graham Healthcare Group
     url: https://grahamhealthcaregroup.com/
+  - type: Subsidiary
+    title: Hoover Treated Wood Products
+    url: https://www.frtw.com/
+  - type: Subsidiary
+    title: Joyce/Dayton
+    url: https://www.joycedayton.com/
+  - type: Subsidiary
+    title: Group Dekko
+    url: https://www.groupdekko.com/
+  - type: Subsidiary
+    title: Forney
+    url: https://www.forneycorp.com/
+  - type: Subsidiary
+    title: Graham Automotive
+    url: https://www.grahamholdings.com/
+  - type: Subsidiary
+    title: Clyde's Restaurant Group
+    url: https://www.clydes.com/
+  - type: Subsidiary
+    title: Framebridge
+    url: https://www.framebridge.com/
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
